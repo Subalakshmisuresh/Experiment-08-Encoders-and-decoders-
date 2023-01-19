@@ -72,17 +72,22 @@ RegisterNumber:
 
 
 ### RTL LOGIC  
+![enc r](https://user-images.githubusercontent.com/121957896/213448930-b2f324a5-2654-40d3-8d12-dc1be438ca4f.png)
 
 
 
 
 
+![dec](https://user-images.githubusercontent.com/121957896/213448988-a9b601ca-01f0-4a2f-9778-3804c7c649e7.png)
 
 
 
 ### TIMING DIGRAMS  
 
+![enc](https://user-images.githubusercontent.com/121957896/213449057-5c74376c-a5f0-4faf-9c08-af5378e76f27.png)
 
+
+![dec td](https://user-images.githubusercontent.com/121957896/213449113-0e0f29e3-b89d-45db-a18d-02656390eb56.png)
 
 
 
